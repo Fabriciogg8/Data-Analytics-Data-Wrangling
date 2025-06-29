@@ -34,7 +34,7 @@ To help a vineyard company (*Vino Veritas*) avoid financial loss by automating t
 ## 🥗 Project 2: Nutritional Data Cleaning – Fetch Cuisine
 
 **📘 Certification Module:** *Python – Data Preparation*  
-**🗂️ File:** `wrangle_nutritional_data_step_1.ipynb`
+**🗂️ File:** `wrangle_nutritional_data.ipynb`
 
 ### 🔍 Objective:
 Clean and consolidate inconsistent nutritional data from multiple food suppliers for the meal kit company *Fetch Cuisine*.
